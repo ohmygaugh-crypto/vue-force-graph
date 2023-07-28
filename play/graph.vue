@@ -122,7 +122,7 @@ export default defineComponent({
 });
 </script>
 <style>
-#app,
+#graph,
 body,
 html {
   width: 100vw;
